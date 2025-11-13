@@ -32,7 +32,11 @@ Designed and developed by Danx Exodus — under the Macan Angkasa Independent Te
 
 
 ---
-
+## 📜 Changelog:
+- Update OpenAI API
+- Update Google Gemini API
+- Update Runtime
+---
 
 ## ⚙️ Preparation and Installation
 
