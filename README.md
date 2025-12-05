@@ -28,12 +28,13 @@ Designed and developed by Danx Exodus — under the Macan Angkasa Independent Te
 ---
 
 ## 📸 Screenshot
-<img width="1080" height="1207" alt="macan-orbit-ai-v450" src="https://github.com/user-attachments/assets/fedf92bf-dbb8-40d9-a668-a59f1e3a970b" />
+<img width="802" height="634" alt="image" src="https://github.com/user-attachments/assets/1ce2c20d-dcb4-4100-a6b8-9b077d528b92" />
+
 
 
 ---
 ## 📜 Changelog:
-- Update Framework
+- Update Google & OpenAI API
 ---
 
 ## ⚙️ Preparation and Installation
