@@ -28,7 +28,8 @@ Designed and developed by Danx Exodus — under the Macan Angkasa Independent Te
 ---
 
 ## 📸 Screenshot
-<img width="802" height="634" alt="image" src="https://github.com/user-attachments/assets/1ce2c20d-dcb4-4100-a6b8-9b077d528b92" />
+<img width="801" height="630" alt="Screenshot 2025-12-16 104221" src="https://github.com/user-attachments/assets/6ee32a6a-f177-4a45-961c-26f6a7442541" />
+
 
 
 
